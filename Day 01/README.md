@@ -6,7 +6,7 @@
 2. Set up Live Server or open the HTML file directly in a browser.
 3. Open the DevTools Console (Right-click → Inspect → Console).
 
-🎯 Completed
+***🎯 Completed***
 
 ### ✅ Task 2: Write Your First JavaScript Code
 
@@ -22,7 +22,7 @@
 - The console log prints the text.
 - The document.write() outputs text on the webpage.
 
-🎯 Completed
+***🎯 Completed***
 
 ### ✅ Task 3: Experiment with Different JavaScript Loading Methods
 
@@ -30,11 +30,11 @@
 2. Use `async` and `defer` attributes
 3. Understand the difefrences.
 
-🎯 Completed
+***🎯 Completed***
 
 ### ✅ Task 4: Take Notes and Submit
 
 1. Hope you have captured a good notes of your learning.
 2. On the Discord, you will find `40 Days of JavaScript`. Please post about your task completion(github repo, screenshots, all) in the `task-assignments` channel.
 
-🎯 Completed
+***🎯 Completed***
